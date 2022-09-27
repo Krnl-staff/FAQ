@@ -1,5 +1,5 @@
 # Obtaning the requirements to run Krnl, with out these Krnl won't function propertly.
-
+# PLEASE FOLLOW ALL THE STEPS IF YOU WANT KRNL TO WORK PROPERLY!
 1.) Check if you have a x64 or x86 device, To do so follow the steps:
 
 - [About Your Pc](https://cdn.discordapp.com/attachments/903380408597614623/1013502716007428186/about.png)
@@ -42,5 +42,25 @@ You may have an anti virus besdies the windows one, depending on which on you ha
 
 [Read this TXT on How](https://cdn.discordapp.com/attachments/995442896155189324/1013509471382818937/AntiVirusWhiteList.txt)
 
-# Downloading
-- Coming soon
+# Downloading : Website
+
+** AFTER ** all of the previous steps provided now you may download Krnl.
+
+Krnl's ONLY Offical Website is https://krnl.place/ , Proceed here and select Krnl BETA or Krnl legacy
+
+- [Beta Download (Recommeded](https://k-storage.com/krnl_beta.exe)
+
+- [Legacy Krnl](https://k-storage.com/krnl_bootstrapper.exe)
+
+# Downloading : WeAreDevs
+** We are devs KRNL is 100% safe as it's uploaded by ice bear himself, follow steps to download **
+
+1.) Make sure you have winrar installed [Download](https://www.win-rar.com/postdownload.html?&L=0)
+
+2.) Download Krnl WRD [Download](https://wearedevs.net/d/Krnl)
+
+3.) Extract The File, To do so right click on the file you just downloaded above, it should be in your Downloads folder. Then Look for the option that says "Extact Here" (Note' If your on windows 11, you have to click "Properties" then find it). After Extracting open the krnl folder and you should see a "KrnlSS" or "Krnl.exe" file, and thats Krnl! 
+
+
+# This is the complete guide on downloading krnl - If you have any questions please ask so in the discord server!
+(Click to go back to other issues)[https://github.com/Krnl-staff/Faq/blob/main/README.md]
