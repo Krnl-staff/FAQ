@@ -62,5 +62,5 @@ Krnl's ONLY Offical Website is https://krnl.place/ , Proceed here and select Krn
 3.) Extract The File, To do so right click on the file you just downloaded above, it should be in your Downloads folder. Then Look for the option that says "Extact Here" (Note' If your on windows 11, you have to click "Properties" then find it). After Extracting open the krnl folder and you should see a "KrnlSS" or "Krnl.exe" file, and thats Krnl! 
 
 
-# This is the complete guide on downloading krnl - If you have any questions please ask so in the discord server!
+# This is the complete guide on downloading krnl - If you have any questions please ask so in the [discord server](https://krnl.place/invite.html) !
 - [Click to go back to other issues](https://github.com/Krnl-staff/Faq/blob/main/README.md)
