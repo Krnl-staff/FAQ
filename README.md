@@ -9,3 +9,5 @@ If you still need help after reading the faq, don't hesistate to join our discor
 
 # Table of contents
  - [Downloading & Requirements](https://github.com/Krnl-staff/Faq/blob/main/DownloadHelp.md)
+ 
+ - [Couldn't Connect To Servers & Encountered An Error Retrying Fix](https://github.com/Krnl-staff/Faq/blob/main/ConnectionError-RetryingError.md)
