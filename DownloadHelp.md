@@ -48,7 +48,7 @@ You may have an anti virus besdies the windows one, depending on which on you ha
 
 Krnl's ONLY Offical Website is https://krnl.place/ , Proceed here and select Krnl BETA or Krnl legacy
 
-- [Beta Download (Recommeded](https://k-storage.com/krnl_beta.exe)
+- [Beta Download (Recommeded)](https://k-storage.com/krnl_beta.exe)
 
 - [Legacy Krnl](https://k-storage.com/krnl_bootstrapper.exe)
 
@@ -63,4 +63,4 @@ Krnl's ONLY Offical Website is https://krnl.place/ , Proceed here and select Krn
 
 
 # This is the complete guide on downloading krnl - If you have any questions please ask so in the discord server!
-(Click to go back to other issues)[https://github.com/Krnl-staff/Faq/blob/main/README.md]
+- (Click to go back to other issues)[https://github.com/Krnl-staff/Faq/blob/main/README.md]
