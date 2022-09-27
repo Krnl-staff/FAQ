@@ -63,4 +63,4 @@ Krnl's ONLY Offical Website is https://krnl.place/ , Proceed here and select Krn
 
 
 # This is the complete guide on downloading krnl - If you have any questions please ask so in the discord server!
-- (Click to go back to other issues)[https://github.com/Krnl-staff/Faq/blob/main/README.md]
+- [Click to go back to other issues](https://github.com/Krnl-staff/Faq/blob/main/README.md)
