@@ -44,7 +44,7 @@ You may have an anti virus besdies the windows one, depending on which on you ha
 
 # Downloading : Website
 
-** AFTER ** all of the previous steps provided now you may download Krnl.
+**AFTER** all of the previous steps provided now you may download Krnl.
 
 Krnl's ONLY Offical Website is https://krnl.place/ , Proceed here and select Krnl BETA or Krnl legacy
 
@@ -53,7 +53,7 @@ Krnl's ONLY Offical Website is https://krnl.place/ , Proceed here and select Krn
 - [Legacy Krnl](https://k-storage.com/krnl_bootstrapper.exe)
 
 # Downloading : WeAreDevs
-** We are devs KRNL is 100% safe as it's uploaded by ice bear himself, follow steps to download **
+**We are devs KRNL is 100% safe as it's uploaded by ice bear himself, follow steps to download**
 
 1.) Make sure you have winrar installed [Download](https://www.win-rar.com/postdownload.html?&L=0)
 
