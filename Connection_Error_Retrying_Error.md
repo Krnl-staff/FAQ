@@ -12,9 +12,9 @@ READ: **Before Doing any of the steps please make sure you've got the [Requireme
 
 2.) Once you've verified, proceed to the [#bot-commands](https://discord.com/channels/903380406743760947/903380407817494577) Channel.
 
-- Beta Zip Download : Run the command "k!tag betazip"
+- Beta Zip Download : Run the command "?tag betazip"
 
-- Regular Krnl Download : Run the command "k!tag zip"
+- Regular Krnl Download : Run the command "?tag zip"
 
 3.) Open the file you just downloaded in from your downloads folder, the Krnl ZIP. You May Have to Extract it, if not just open it and scoll through all the files until 
 you see one named "KrnlUI" (For KRNL Beta), For regular Krnl Do the same but look for a file named "Krnl.exe" or "KrnlSs" Or just "Krnl" It should be an .exe file. Once you 
@@ -32,4 +32,4 @@ open it you should be good to go!
 
 **Note: The Error may say to use a VPN, but most of the time that doesn't work / causes more errors, So just follow these steps**
 
-# This is the complete guide on how to fix Connection Issues, If you have any further questions ask so in our [Discord Server](https://krnl.place/invite.html)
+-- End Of "Connection Failed Retrying In 3s / Use A VPN Error" Guide, Join our [discord](https://krnl.place/invite.html) if other issues persist. --
