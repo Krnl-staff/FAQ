@@ -19,6 +19,8 @@ Right click on it, and select "Run As Administrator".
 
 # Option 3 | Ensure Download Was Done Correctly.
 
-Go Back To The Download Help, Make Sure You've Done It Correctly, If Issues Still persists, Restart PC, Redownload (OR) Join the [Discord](https://krnl.place/career/invite.html)
+Go Back To The Download Help, Make Sure You've Done It Correctly, If Issues Still persists, Restart PC, Redownload (OR) Join the [Discord](https://krnl.place/invite.html)
 
 * [Download Help](https://github.com/Krnl-staff/FAQ/blob/main/DownloadHelp.md)
+
+-- End Of "Error.Txt" Guide, Join our [discord](https://krnl.place/invite.html) if other issues persist. --
