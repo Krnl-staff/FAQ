@@ -1,8 +1,8 @@
-# Obtaining the requirements to run Krnl, without these Krnl won't function properly.
+# Obtaining the Krnl requirements to run Krnl. Without these, Krnl won't function properly.
 # PLEASE FOLLOW ALL THE STEPS IF YOU WANT KRNL TO WORK PROPERLY!
-1.) Check if you have a x64 or x86 device, To do so follow the steps:
+1.) Check if you have a x64 or x86 device. To do so follow the steps:
 
-- [About Your Pc](https://cdn.discordapp.com/attachments/903380408597614623/1013502716007428186/about.png)
+- [About your PC](https://cdn.discordapp.com/attachments/903380408597614623/1013502716007428186/about.png)
 
 - [Check Processor](https://cdn.discordapp.com/attachments/903380408597614623/1013503478380896266/unknown.png)
 
@@ -10,19 +10,21 @@
 
 - [Visual C++ Redistributable x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) -> This file is made by microsoft themselvs.
 
+
 - [Visual C++ Redistributable x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) -> This file is made by microsoft themselvs.
 
 3.) Your PC needs an updated version of [.NET Framework (4.7.2+)](https://dotnet.microsoft.com/download/dotnet-framework/net48) Click to download.
+
 
 4.) After installing the correct files, restart your device. 
 
 **NOTE: KRNL ONLY WORKS ON WINDOWS 8.1 AND ABOVE**
 
-# Anti Virus Whitelist 
+# Anti-virus Whitelist 
 Krnl, like ANY other roblox exploit will be marked as a virus, this is known as a "False postive" where windows thinks the "Krnl.dll" file is a virus due to it being obfuscated, rest assured Krnl is 100% safe.
 You can actually decompile the entire UI using DN spy.
 
-Lets start by whitelisting Krnl from Window's Anti-Virus.
+Lets start by whitelisting Krnl from Window's anti-virus.
 
 1.) Open Settings, and type "Windows security", It should open the windows security panel from there.
 
@@ -36,7 +38,7 @@ To whitelist Krnl begin from step 3 shown above, and instead of disabling "Real 
 
 Select "Add an Exclusion" and select "Folder". From there, you can navigate to the Krnl folder and set it as a exclusion.
 
-# Other Anti-Viruses 
+# Other Anti-viruses
 
 You may have a anti-virus besides Window's anti-virus, depending on which one you have setting a exclusion or disabling it may be tricky. The steps below will demonstrate how to uninstall any third-party antiviruses you may have on your device.
 
