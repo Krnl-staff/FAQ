@@ -11,3 +11,5 @@ If you still need help after reading the faq or don't see your issue listed, don
  - [Downloading & Requirements & Anti - Virus Whitelist](https://github.com/Krnl-staff/Faq/blob/main/DownloadHelp.md)
  
  - [Couldn't Connect To Servers & Encountered An Error Retrying Fix](https://github.com/Krnl-staff/Faq/blob/main/ConnectionError-RetryingError.md)
+ 
+ - [Send error.txt to Krnl server](https://github.com/Krnl-staff/FAQ/blob/main/error_txt.md)
