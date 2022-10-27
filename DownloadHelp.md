@@ -21,22 +21,24 @@
 **NOTE: KRNL ONLY WORKS ON WINDOWS 8.1 AND ABOVE**
 
 # Anti-virus Whitelist 
-Krnl, like ANY other roblox exploit will be marked as a virus, this is known as a "False postive" where windows thinks the "Krnl.dll" file is a virus due to it being obfuscated, rest assured Krnl is 100% safe.
-You can actually decompile the entire UI using DN spy.
+**Krnl, like ANY other roblox exploit will be marked as a virus, this is known as a "False postive" where windows thinks the "Krnl.dll" file is a virus due to it being obfuscated, rest assured Krnl is 100% safe.
+You can actually decompile the entire UI using DN spy.**
 
 Lets start by whitelisting Krnl from Window's anti-virus.
 
-1.) Open Settings, and type "Windows security", It should open the windows security panel from there.
+1.) Open Settings, and type "Windows security". It should open the windows security panel from there.
 
-2.) Open The "Virus and Threat Protection" Option.
+2.) Select the "Virus and Threat Protection" option.
 
-3.) You'll want to navigate to [Here](https://cdn.discordapp.com/attachments/903380408597614623/1013506105420283934/unknown.png), Then disable the "Real Time Protection" option.
+3.) You'll want to navigate to [here](https://cdn.discordapp.com/attachments/903380408597614623/1013506105420283934/unknown.png), Then disable the "Real Time Protection" option.
 
-**NOTE: IF YOU DON'T WANT TO TURN OFF YOUR WHOLE ANTI VIRUS BUT INSTEAD JUST WHITELIST/EXCLUDE KRNL, READ BELOW**
 
-To whitelist Krnl begin from step 3 shown above, and instead of disabling "Real Time Protection", navigate to the bottom and look for "Add or Remove Exclusions" option.
+**(NOTE: IF YOU DON'T WANT TO TURN OFF YOUR WHOLE ANTI VIRUS BUT INSTEAD JUST WHITELIST/EXCLUDE KRNL, READ BELOW)**
 
-Select "Add an Exclusion" and select "Folder". From there, you can navigate to the Krnl folder and set it as a exclusion.
+- To whitelist Krnl begin from step 3 shown above, and instead of disabling "Real Time Protection", navigate to the bottom and look for "Add or Remove Exclusions" option.
+
+- Select "Add an Exclusion" and select "Folder". From there, you can navigate to the Krnl folder and set it as a exclusion.
+
 
 # Other Anti-viruses
 
@@ -47,6 +49,7 @@ You may have a anti-virus besides Window's anti-virus, depending on which one yo
 2.) Look for any third-party antiviruses (Common keywords may be "protection", "real-time", "antivirus", etc.)
 
 3.) Select "uninstall".
+
 
 # Downloading : Website
 
