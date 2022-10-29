@@ -14,7 +14,7 @@
  
  - [Send error.txt to Krnl server solution(s)](https://github.com/Krnl-staff/FAQ/blob/main/Software/error_txt.md)
  
- - [Kicked from Roblox - Error 268](https://github.com/Krnl-staff/FAQ/blob/main/Software/Roblox%20process%20not%20found.md#roblox-process-not-found)
+ - [Kicked from Roblox - Error 268](https://github.com/Krnl-staff/FAQ/blob/main/Injection/Kicked%20from%20Roblox%20-%20268.md)
  
  - [Roblox Process not Found](https://github.com/Krnl-staff/FAQ/blob/main/Software/Roblox%20process%20not%20found.md#roblox-process-not-found)
  
