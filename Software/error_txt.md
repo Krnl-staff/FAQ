@@ -23,4 +23,4 @@ Go back to the "Download Help" category, make sure you've downloaded everything 
 
 * [Download Help](https://github.com/Krnl-staff/FAQ/blob/main/DownloadHelp.md)
 
--- End of "Error.Txt" Guide, Join our [discord](https://krnl.place/invite.html) if other issues persist. --
+End of "Error.Txt" Guide, Join our [discord](https://krnl.place/invite.html) if other issues persist.
