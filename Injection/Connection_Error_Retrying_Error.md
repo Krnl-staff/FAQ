@@ -29,7 +29,7 @@ This error occurs because your ISP is blocking the website Krnl uses to host its
 
 # Fix: Using Cloudflare DNS (Ok Fix)
 
-1.) Setup Cloudflare DNS https://privacy.net/set-up-cloudflare-dns-how-to/
+1.) Setup [Cloudflare DNS](https://privacy.net/set-up-cloudflare-dns-how-to/)
 
 **Note: The error may say to use a VPN, but most of the time that doesn't work / causes more errors, so just follow these steps**
 
