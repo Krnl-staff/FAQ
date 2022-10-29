@@ -8,11 +8,11 @@
 - [Discord](https://krnl.place/invite)
 
 # Table of Contents
- - [Downloading & Requirements + Anti-Virus Whitelist](https://github.com/Krnl-staff/Faq/blob/main/DownloadHelp.md)
+ - [Downloading & Requirements + Anti-Virus Whitelist](https://github.com/Krnl-staff/FAQ/blob/main/Set%20up%20KRNL.md)
  
- - [Couldn't Connect To Servers & Encountered An Error Retrying Fix](https://github.com/Krnl-staff/Faq/blob/main/ConnectionError-RetryingError.md)
+ - [Couldn't Connect To Servers & Encountered An Error Retrying Fix](https://github.com/Krnl-staff/FAQ/blob/main/Injection/Connection_Error_Retrying_Error.md)
  
- - [Send error.txt to Krnl server solution(s)](https://github.com/Krnl-staff/FAQ/blob/main/error_txt.md)
+ - [Send error.txt to Krnl server solution(s)](https://github.com/Krnl-staff/FAQ/blob/main/Software/error_txt.md)
  
  - [Kicked from Roblox - Error 268](https://github.com/Krnl-staff/FAQ/blob/main/Software/Roblox%20process%20not%20found.md#roblox-process-not-found)
  
