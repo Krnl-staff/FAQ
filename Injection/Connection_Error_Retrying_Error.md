@@ -33,4 +33,4 @@ This error occurs because your ISP is blocking the website Krnl uses to host its
 
 **Note: The error may say to use a VPN, but most of the time that doesn't work / causes more errors, so just follow these steps**
 
--- End of "Error encountered retrying in 3s / Use A VPN Error" guide, join our [discord](https://krnl.place/invite.html) if other issues persist. --
+End of "Error encountered retrying in 3s / Use A VPN Error" guide, join our [discord](https://krnl.place/invite.html) if other issues persist.
