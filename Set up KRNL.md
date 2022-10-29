@@ -1,4 +1,4 @@
-# Obtaining the Krnl requirements to run Krnl. Without these, Krnl won't function properly.
+# Obtaining the Krnl requirements to run Krnl. Without these, Krnl won't function properly!
 # PLEASE FOLLOW ALL THE STEPS IF YOU WANT KRNL TO WORK PROPERLY!
 1.) Check if you have a x64 or x86 device. To do so follow the steps:
 
