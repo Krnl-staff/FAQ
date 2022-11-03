@@ -18,7 +18,7 @@
 
 4.) After installing the correct files, restart your device. 
 
-**NOTE: KRNL ONLY WORKS ON WINDOWS 8.1 AND ABOVE**
+**NOTE: KRNL ONLY WORKS ON WINDOWS 8.1 AND ABOVE. A x64 BIT INSTALLATION OF WINDOWS IS REQUIRED!**
 
 # Anti-virus Whitelist / Disabling Anti-virus
 **Krnl, like ANY other roblox exploit will be marked as a virus, this is known as a "False postive" where windows thinks the "Krnl.dll" file is a virus due to it being obfuscated, rest assured Krnl is 100% safe.
