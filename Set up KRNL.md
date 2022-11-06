@@ -6,7 +6,7 @@
 
 - [Check Processor](https://cdn.discordapp.com/attachments/903380408597614623/1013503478380896266/unknown.png)
 
-2.) Once you know the type, proceed to download and install the corresponding Visual C++ Redistributable.
+2.) Once you know the type, proceed to download and install the Visual C++ Redistributables.
 
 - [Visual C++ Redistributable x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) -> This file is made by microsoft themselvs.
 
