@@ -1,9 +1,8 @@
 # FAQ
 This page is written by the staff team at Krnl.
 
-The intention behind this FAQ is to not only provide users with a better and quicker way to find a solution to their problem, but to also help our support expand
-the official FAQ even without access to Krnl's internal servers.
+The primary intention behind this FAQ is to provide users with a better and faster way to find a solution to their problems, while also allowing our support to expand the official FAQ, without the access to internal Krnl servers.
 
-Please start by clicking on the category of your issue.
+Please start by clicking on the category coressponding to your issue.
 
-**Join our [Discord server](https://krnl.place/invite) if your issue persist after trying everything in our FAQ page**
+**Join our [Discord server](https://krnl.place/invite) if your issue persists even after trying everything in our FAQ page**
