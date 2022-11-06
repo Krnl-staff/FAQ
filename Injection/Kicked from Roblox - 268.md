@@ -8,4 +8,4 @@ Alternatively, log out of Roblox, reinstall it and log into a different account 
 * [Enable auto-attach](https://i.imgur.com/d4Q8BjJ.png) in the preferences tab of the [latest UI](https://k-storage.com/krnl_beta.exe) after you've waited an hour.
 
 # IMPORTANT
-**To Prevent "Error Code 268" Kicks, DO NOT Use 3rd Party Injectors such as "Extreme Injector" / "Dll Injectors"; Instead use "Auto Attach" on the krnl beta ui or regular legacy krnl!**
+**To prevent "Unexpected Client Behavior Error Code 268" kicks, _DO NOT_ use 3rd party injectors such as "Extreme Injector" / "Dll Injectors"; Instead use "Auto Attach" on the [latest UI](https://k-storage.com/krnl_beta.exe) of Krnl or [Legacy Krnl](https://k-storage.com/krnl_bootstrapper.exe)!**
