@@ -10,3 +10,4 @@ This will only work per session (from the moment you join a Roblox game, until y
 This will work until you have been again chosen as a part of the Windows client test program.
 1. Create / log into a new account. Join a game and leave it to test if that account has been chosen (It should open the web version if you're good to go)
 2. Reinstall the Roblox web client - https://www.roblox.com/download
+- Alternatively if none of this works, you can try to run Krnl as administrator.
