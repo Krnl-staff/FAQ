@@ -24,13 +24,3 @@ Go back to the "Download Help" category, make sure you've downloaded everything 
 * [Download Help](https://github.com/Krnl-staff/FAQ/blob/main/DownloadHelp.md)
 
 End of "Error.Txt" Guide, Join our [discord](https://krnl.place/invite.html) if other issues persist.
-
-## Option 4 | Using a VPN.
-
-You should use either a free VPN such as ProtonVPN or a VPN that you already own.
-Follow these steps to download ProtonVPN:
-- Download [ProtonVPN](https://protonvpn.com/)
-- Install it, set it up, open it.
-- Once you get to the menu asking you to choose a location, select the one closest to you. 
-- Make sure that it's on and check if your issue has been solved.
-
