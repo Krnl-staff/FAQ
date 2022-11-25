@@ -6,7 +6,7 @@
 * [Install Missing Files (Image)](https://cdn.discordapp.com/attachments/903380408597614623/1029578808484962354/unknown.png)
 * [Krnl Bootstrapper](https://k-storage.com/krnl_bootstrapper.exe)
 
-## Option 2 | Run Krnl with Maximum Privileges on Your Device.
+## Option 2 | Run Krnl with maximum privileges on your device.
 
 1.) Run Krnl as "Administrator".
 
@@ -17,7 +17,7 @@ Steps to do so:
 - Right click on the file, and select "Run As Administrator".
 
 
-## Option 3 | Ensure that the Download was Done Correctly.
+## Option 3 | Ensure that the download was done correctly.
 
 Go back to the "Download Help" category, make sure you've downloaded everything correctly, with your anti-virus disabled. If the issue still persists, try to restart your PC, re-download KRNL (OR) Join the [Discord](https://krnl.place/invite.html)
 
