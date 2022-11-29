@@ -8,10 +8,10 @@
 
 2.) Once you know the type, proceed to download and install the Visual C++ Redistributables.
 
-- [Visual C++ Redistributable x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) -> This file is made by microsoft themselvs.
+- [Visual C++ Redistributable x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) -> This file is made by microsoft themself.
 
 
-- [Visual C++ Redistributable x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) -> This file is made by microsoft themselvs.
+- [Visual C++ Redistributable x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) -> This file is made by microsoft themself.
 
 3.) Your PC needs an updated version of [.NET Framework (4.7.2+)](https://dotnet.microsoft.com/download/dotnet-framework/net48) Click to download.
 
