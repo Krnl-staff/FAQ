@@ -6,7 +6,7 @@
  - [Search for: Settings](https://cdn.discordapp.com/attachments/1053725471688368179/1099075930988740678/chrome_XwXQkFBH5P.png)
  - [In "System", go to "About"](https://cdn.discordapp.com/attachments/1053725471688368179/1099076416743690452/ApplicationFrameHost_AYs74c10RA.png)
 
-- [Check Processor](https://cdn.discordapp.com/attachments/903380408597614623/1013503478380896266/unknown.png)
+- [Check Processor](https://cdn.discordapp.com/attachments/1053725471688368179/1099098498705657856/ApplicationFrameHost_zJc4qLnk7W.png)
 
 2.) Once you know the type, proceed to download and install the Visual C++ Redistributables.
 
@@ -32,7 +32,7 @@ Lets start by whitelisting Krnl from Window's in-built anti-virus.
 
 2.) Select the "Virus and Threat Protection" option.
 
-3.) You'll want to navigate to [here](https://cdn.discordapp.com/attachments/903380408597614623/1013506105420283934/unknown.png). Then, disable the "Real Time Protection" option.
+3.) You'll want to navigate to [here](https://cdn.discordapp.com/attachments/1053725471688368179/1099099376497987706/ApplicationFrameHost_4fWLYvRKA4.png). Then, disable the "Real Time Protection" option.
 
 
 **(NOTE: IF YOU DON'T WANT TO TURN OFF YOUR WHOLE ANTI VIRUS BUT INSTEAD JUST WHITELIST/EXCLUDE KRNL, READ BELOW)**
@@ -48,7 +48,7 @@ You may have a Third-Party anti-virus installed, alongside Window's in-built ant
 
 1.) Press the windows key + R and type "appwiz.cpl"
 
-2.) Look for any third-party antivirus (Common keywords may be "protection", "real-time", "antivirus", etc.)
+2.) Look for any third-party antivirus (Common keywords may be "protection", "real-time", "antivirus", "security", etc.)
 
 3.) Select "uninstall".
 
@@ -74,4 +74,4 @@ Krnl's **ONLY OFFICIAL WEBSITE** is https://krnl.place/ , Proceed here and selec
 
 
 # This is the complete guide on downloading Krnl - If you have any questions, please ask so in the [discord server](https://krnl.place/invite.html) !
-- [Click to go back to other issues](https://github.com/Krnl-staff/Faq/blob/main/README.md)
+- [Click to go back to other issues](https://github.com/Krnl-staff/Faq/blob/main)
