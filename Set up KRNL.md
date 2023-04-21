@@ -2,7 +2,9 @@
 # PLEASE FOLLOW ALL THE STEPS IF YOU WANT KRNL TO WORK PROPERLY!
 1.) Check if you have a x64 or x86 device. To do so, follow these steps:
 
-- [About your PC](https://cdn.discordapp.com/attachments/903380408597614623/1013502716007428186/about.png)
+- [Go to your search bar](https://cdn.discordapp.com/attachments/1053725471688368179/1099073836684673114/qI3yNQNskG.png)
+ - [Search for: Settings](https://cdn.discordapp.com/attachments/1053725471688368179/1099075930988740678/chrome_XwXQkFBH5P.png)
+ - [In "System", go to "About"](https://cdn.discordapp.com/attachments/1053725471688368179/1099076416743690452/ApplicationFrameHost_AYs74c10RA.png)
 
 - [Check Processor](https://cdn.discordapp.com/attachments/903380408597614623/1013503478380896266/unknown.png)
 
